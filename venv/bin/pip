@@ -1,4 +1,4 @@
-#!/Users/vossmatthias/Desktop/ai/openai-quickstart-python/venv/bin/python3.10
+#!/Users/vossmatthias/Desktop/ai/namegenerator/venv/bin/pip
 # -*- coding: utf-8 -*-
 import re
 import sys
